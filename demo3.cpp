@@ -40,4 +40,5 @@ int main(){
         //cout<<1;
         out(spacenum,cnt,tmp-cnt);
     }
+    return 0;
 }
